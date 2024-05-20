@@ -1,0 +1,20 @@
+{
+  "name": "football_ticket_system",
+  "version": "1.0.0",
+  "description": "football_ticket_app",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0",
+    "truffle": "^5.11.5"
+  },
+  "dependencies": {
+    "chai": "^5.1.1",
+    "react-router-dom": "^6.23.1",
+    "web3": "^4.8.0"
+  }
+}
